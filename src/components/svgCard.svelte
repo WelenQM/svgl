@@ -14,6 +14,7 @@
   import { badgeStyles } from '@/ui/styles';
 
   // Figma
+
   import { onMount } from 'svelte';
   import { insertSVG as figmaInsertSVG } from '@/figma/insert-svg';
 
